@@ -6,10 +6,34 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    id="svg3928"
    height="125"
-   width="150">
+   width="150"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="digitalr00ts-logo.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1600"
+     inkscape:window-height="847"
+     id="namedview3081"
+     showgrid="false"
+     inkscape:zoom="5.336"
+     inkscape:cx="41.922789"
+     inkscape:cy="62.5"
+     inkscape:window-x="0"
+     inkscape:window-y="31"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
   <title
      id="title4518">digitalr00ts logo</title>
   <defs
@@ -90,7 +114,7 @@
        style="fill:#000024;fill-opacity:1;fill-rule:nonzero;stroke:none" />
     <g
        transform="translate(0,-24.999993)"
-       style="fill:#00a000;fill-opacity:1"
+       style="fill:#00c800;fill-opacity:1"
        id="g3969">
       <circle
          cx="39.400002"
@@ -98,103 +122,118 @@
          r="3.5550001"
          transform="matrix(2.105334,0,0,2.105334,-52.8567,267.51339)"
          id="circle3522-2"
-         style="fill:#00a000;fill-opacity:1" />
+         style="fill:#00c800;fill-opacity:1"
+         d="m 42.955002,141.48 c 0,1.96337 -1.591628,3.555 -3.555,3.555 -1.963373,0 -3.555001,-1.59163 -3.555001,-3.555 0,-1.96338 1.591628,-3.555 3.555001,-3.555 1.963372,0 3.555,1.59162 3.555,3.555 z" />
       <rect
          width="44.906761"
          height="14.968898"
          x="52.561611"
          y="557.88635"
          id="rect3524-4"
-         style="fill:#00a000;fill-opacity:1" />
+         style="fill:#00c800;fill-opacity:1" />
       <circle
          cx="39.400002"
          cy="141.48"
          r="3.5550001"
          transform="matrix(2.105334,0,0,2.105334,36.956875,267.51339)"
          id="circle3526-0"
-         style="fill:#00a000;fill-opacity:1" />
+         style="fill:#00c800;fill-opacity:1"
+         d="m 42.955002,141.48 c 0,1.96337 -1.591628,3.555 -3.555,3.555 -1.963373,0 -3.555001,-1.59163 -3.555001,-3.555 0,-1.96338 1.591628,-3.555 3.555001,-3.555 1.963372,0 3.555,1.59162 3.555,3.555 z" />
       <rect
          width="44.906761"
          height="14.968898"
          x="22.609024"
          y="527.13922"
          id="rect3338-4-06"
-         style="fill:#00a000;fill-opacity:1" />
+         style="fill:#00c800;fill-opacity:1" />
       <circle
          cx="39.400002"
          cy="141.48"
          r="3.5550001"
          transform="matrix(2.105334,0,0,2.105334,6.8608086,236.76785)"
          id="circle3340-2-9"
-         style="fill:#00a000;fill-opacity:1" />
+         style="fill:#00c800;fill-opacity:1"
+         d="m 42.955002,141.48 c 0,1.96337 -1.591628,3.555 -3.555,3.555 -1.963373,0 -3.555001,-1.59163 -3.555001,-3.555 0,-1.96338 1.591628,-3.555 3.555001,-3.555 1.963372,0 3.555,1.59162 3.555,3.555 z" />
       <circle
          cx="39.400002"
          cy="141.48"
          r="3.5550001"
          transform="matrix(2.105334,0,0,2.105334,36.942137,237.05662)"
          id="circle3342-8-9"
-         style="fill:#00a000;fill-opacity:1" />
+         style="fill:#00c800;fill-opacity:1"
+         d="m 42.955002,141.48 c 0,1.96337 -1.591628,3.555 -3.555,3.555 -1.963373,0 -3.555001,-1.59163 -3.555001,-3.555 0,-1.96338 1.591628,-3.555 3.555001,-3.555 1.963372,0 3.555,1.59162 3.555,3.555 z" />
     </g>
     <g
        transform="translate(0,-24.999993)"
-       style="fill:#005000;fill-opacity:1"
+       style="fill:#00a000;fill-opacity:1"
        id="g3977">
       <text
          xml:space="preserve"
-         style="font-size:96.74226378999999554px;font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#005000;fill-opacity:1;stroke:none;font-family:Orbitron;-inkscape-font-specification:Orbitron Heavy"
+         style="font-size:96.74226379000000975px;font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#00a000;fill-opacity:1;stroke:none;font-family:Orbitron;-inkscape-font-specification:Orbitron Heavy"
          x="494.99783"
          y="0"
          id="text3843"
-         transform="matrix(0,1,-1,0,0,0)"><tspan
+         transform="matrix(0,1,-1,0,0,0)"
+         sodipodi:linespacing="125%"><tspan
            id="tspan3845"
            x="494.99783"
-           y="0">l</tspan></text>
+           y="0"
+           style="fill:#00a000;fill-opacity:1">l</tspan></text>
       <text
          xml:space="preserve"
-         style="font-size:96.12387085000000297px;font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#005000;fill-opacity:1;stroke:none;font-family:Orbitron;-inkscape-font-specification:Orbitron Heavy"
+         style="font-size:96.12387084999998876px;font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#00a000;fill-opacity:1;stroke:none;font-family:Orbitron;-inkscape-font-specification:Orbitron Heavy"
          x="-154.99873"
          y="-500.00006"
          id="text3843-1"
-         transform="scale(-1,-1)"><tspan
+         transform="scale(-1,-1)"
+         sodipodi:linespacing="125%"><tspan
            id="tspan3845-8"
            x="-154.99873"
-           y="-500.00006">l</tspan></text>
+           y="-500.00006"
+           style="fill:#00a000;fill-opacity:1">l</tspan></text>
       <text
          xml:space="preserve"
-         style="font-size:96.74167633000000421px;font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#005000;fill-opacity:1;stroke:none;font-family:Orbitron;-inkscape-font-specification:Orbitron Heavy"
+         style="font-size:96.74167632999999000px;font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#00a000;fill-opacity:1;stroke:none;font-family:Orbitron;-inkscape-font-specification:Orbitron Heavy"
          x="-605.03064"
          y="149.99983"
          id="text3843-3"
-         transform="matrix(0,-1,1,0,0,0)"><tspan
+         transform="matrix(0,-1,1,0,0,0)"
+         sodipodi:linespacing="125%"><tspan
            id="tspan3845-5"
            x="-605.03064"
-           y="149.99983">l</tspan></text>
+           y="149.99983"
+           style="fill:#00a000;fill-opacity:1">l</tspan></text>
       <text
          xml:space="preserve"
-         style="font-size:96.11682892000000322px;font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#005000;fill-opacity:1;stroke:none;font-family:Orbitron;-inkscape-font-specification:Orbitron Heavy"
+         style="font-size:96.11682892000000322px;font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#00a000;fill-opacity:1;stroke:none;font-family:Orbitron;-inkscape-font-specification:Orbitron Heavy"
          x="-4.9979944"
          y="599.89673"
-         id="text3843-32"><tspan
+         id="text3843-32"
+         sodipodi:linespacing="125%"><tspan
            id="tspan3845-4"
            x="-4.9979944"
-           y="599.89673">l</tspan></text>
+           y="599.89673"
+           style="fill:#00a000;fill-opacity:1">l</tspan></text>
     </g>
     <text
        id="text4514"
        y="594.78796"
        x="-0.52347577"
-       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:22.75981712px;line-height:100%;font-family:Orbitron;-inkscape-font-specification:'Orbitron Heavy';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#00a000;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:22.75981712000000101px;line-height:100%;font-family:Orbitron;-inkscape-font-specification:Orbitron Heavy;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#00c800;fill-opacity:1;stroke:none"
+       xml:space="preserve"
+       sodipodi:linespacing="100%"><tspan
          y="594.78796"
          x="-0.52347577"
-         id="tspan4516">digitalr00ts</tspan></text>
+         id="tspan4516"
+         style="fill:#00c800;fill-opacity:1">digitalr00ts</tspan></text>
     <text
        id="text3428"
        y="600.00006"
        x="36.459648"
-       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:9.5145874px;line-height:125%;font-family:Orbitron;-inkscape-font-specification:'Orbitron Heavy';letter-spacing:0px;word-spacing:0px;fill:#00a000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       xml:space="preserve"><tspan
-         style="font-size:7.1359396px"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:9.51458739999999992px;line-height:125%;font-family:Orbitron;-inkscape-font-specification:Orbitron Heavy;letter-spacing:0px;word-spacing:0px;fill:#00c800;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       sodipodi:linespacing="125%"><tspan
+         style="font-size:7.13593960000000038px;fill:#00c800;fill-opacity:1"
          y="600.00006"
          x="36.459648"
          id="tspan3430">.com</tspan></text>
