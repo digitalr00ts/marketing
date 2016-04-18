@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="150"
+   height="125"
+   id="svg3928">
+  <title
+     id="title4518">digitalr00ts logo</title>
+  <defs
+     id="defs3930">
+    <linearGradient
+       id="linearGradient6015">
+      <stop
+         id="stop6017"
+         style="stop-color:#2c0000;stop-opacity:1"
+         offset="0" />
+    </linearGradient>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter4484">
+      <feFlood
+         result="flood"
+         flood-color="rgb(255,255,255)"
+         flood-opacity="0.6666"
+         id="feFlood4486" />
+      <feComposite
+         in2="SourceGraphic"
+         operator="in"
+         in="flood"
+         result="composite1"
+         id="feComposite4488" />
+      <feGaussianBlur
+         result="blur"
+         stdDeviation="0.4"
+         id="feGaussianBlur4490" />
+      <feOffset
+         result="offset"
+         dy="0.8"
+         dx="0.8"
+         id="feOffset4492" />
+      <feComposite
+         in2="offset"
+         operator="over"
+         in="SourceGraphic"
+         result="composite2"
+         id="feComposite4494" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter4496">
+      <feFlood
+         result="flood"
+         flood-color="rgb(255,255,255)"
+         flood-opacity="0.6666"
+         id="feFlood4498" />
+      <feComposite
+         in2="SourceGraphic"
+         operator="in"
+         in="flood"
+         result="composite1"
+         id="feComposite4500" />
+      <feGaussianBlur
+         result="blur"
+         stdDeviation="0.4"
+         id="feGaussianBlur4502" />
+      <feOffset
+         result="offset"
+         dy="0.8"
+         dx="0.8"
+         id="feOffset4504" />
+      <feComposite
+         in2="offset"
+         operator="over"
+         in="SourceGraphic"
+         result="composite2"
+         id="feComposite4506" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter4844">
+      <feFlood
+         result="flood"
+         flood-color="rgb(255,255,255)"
+         flood-opacity="0.6666"
+         id="feFlood4846" />
+      <feComposite
+         in2="SourceGraphic"
+         operator="in"
+         in="flood"
+         result="composite1"
+         id="feComposite4848" />
+      <feGaussianBlur
+         result="blur"
+         stdDeviation="0.2"
+         id="feGaussianBlur4850" />
+      <feOffset
+         result="offset"
+         dy="0.5"
+         dx="0.5"
+         id="feOffset4852" />
+      <feComposite
+         in2="offset"
+         operator="over"
+         in="SourceGraphic"
+         result="composite2"
+         id="feComposite4854" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter4856">
+      <feFlood
+         result="flood"
+         flood-color="rgb(255,255,255)"
+         flood-opacity="0.6666"
+         id="feFlood4858" />
+      <feComposite
+         in2="SourceGraphic"
+         operator="in"
+         in="flood"
+         result="composite1"
+         id="feComposite4860" />
+      <feGaussianBlur
+         result="blur"
+         stdDeviation="0.2"
+         id="feGaussianBlur4862" />
+      <feOffset
+         result="offset"
+         dy="0.5"
+         dx="0.5"
+         id="feOffset4864" />
+      <feComposite
+         in2="offset"
+         operator="over"
+         in="SourceGraphic"
+         result="composite2"
+         id="feComposite4866" />
+    </filter>
+  </defs>
+  <metadata
+     id="metadata3933">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>digitalr00ts logo</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Carlos Meza</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:description>Logo for digitalRoots</dc:description>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>Carlos Meza</dc:title>
+          </cc:Agent>
+        </dc:contributor>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>digitalr00ts logo glow 3D</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>digitalr00ts</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>digitalr00ts</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:date>2014-03-05</dc:date>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nc-nd/3.0/" />
+        <dc:source>digitalr00ts.com</dc:source>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nc-nd/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:prohibits
+           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-475.00008)"
+     id="layer1">
+    <rect
+       width="200"
+       height="175"
+       x="-25"
+       y="450.00009"
+       id="rect4563"
+       style="fill:#000024;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+    <g
+       transform="translate(0,-24.999993)"
+       id="g3754"
+       style="fill:#00c800;fill-opacity:1;filter:url(#filter4484)">
+      <path
+         d="m 42.955002,141.48 c 0,1.96337 -1.591628,3.555 -3.555,3.555 -1.963373,0 -3.555001,-1.59163 -3.555001,-3.555 0,-1.96338 1.591628,-3.555 3.555001,-3.555 1.963372,0 3.555,1.59162 3.555,3.555 z"
+         transform="matrix(2.105334,0,0,2.105334,-52.8567,267.51339)"
+         id="path3752"
+         style="fill:#00c800" />
+      <path
+         d="m 52.561611,557.88635 44.906761,0 0,14.9689 -44.906761,0 z"
+         id="path3750"
+         style="fill:#00c800" />
+      <path
+         d="m 42.955002,141.48 c 0,1.96337 -1.591628,3.555 -3.555,3.555 -1.963373,0 -3.555001,-1.59163 -3.555001,-3.555 0,-1.96338 1.591628,-3.555 3.555001,-3.555 1.963372,0 3.555,1.59162 3.555,3.555 z"
+         transform="matrix(2.105334,0,0,2.105334,36.956875,267.51339)"
+         id="path3748"
+         style="fill:#00c800" />
+      <path
+         d="m 22.609024,527.13922 44.906761,0 0,14.9689 -44.906761,0 z"
+         id="path3746"
+         style="fill:#00c800" />
+      <path
+         d="m 42.955002,141.48 c 0,1.96337 -1.591628,3.555 -3.555,3.555 -1.963373,0 -3.555001,-1.59163 -3.555001,-3.555 0,-1.96338 1.591628,-3.555 3.555001,-3.555 1.963372,0 3.555,1.59162 3.555,3.555 z"
+         transform="matrix(2.105334,0,0,2.105334,6.8608086,236.76785)"
+         id="path3744"
+         style="fill:#00c800" />
+      <path
+         d="m 42.955002,141.48 c 0,1.96337 -1.591628,3.555 -3.555,3.555 -1.963373,0 -3.555001,-1.59163 -3.555001,-3.555 0,-1.96338 1.591628,-3.555 3.555001,-3.555 1.963372,0 3.555,1.59162 3.555,3.555 z"
+         transform="matrix(2.105334,0,0,2.105334,36.942137,237.05662)"
+         id="path3742"
+         style="fill:#00c800" />
+    </g>
+    <g
+       transform="translate(0,-24.999993)"
+       id="g3740"
+       style="fill:#00a000;fill-opacity:1;filter:url(#filter4496)">
+      <g
+         transform="matrix(0,1,-1,0,0,0)"
+         id="g3738"
+         style="font-size:96.74226379px;font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#00a000;stroke:none;font-family:Orbitron;-inkscape-font-specification:Orbitron Heavy">
+        <path
+           d="m 500.02843,-74.588285 0,60.560657 C 500.02843,-6.3849971 506.41343,0 514.05606,0 l 12.18952,0 0,-14.801566 -11.31884,0 0,-59.786719 -14.89831,0"
+           id="path3736"
+           style="fill:#00a000" />
+      </g>
+      <g
+         transform="scale(-1,-1)"
+         id="g3734"
+         style="font-size:96.12387085px;font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#00a000;stroke:none;font-family:Orbitron;-inkscape-font-specification:Orbitron Heavy">
+        <path
+           d="m -150.00029,-574.11157 0,60.17355 c 0,7.59378 6.34418,13.93796 13.93796,13.93796 l 12.11161,0 0,-14.70695 -11.2465,0 0,-59.40456 -14.80307,0"
+           id="path3732"
+           style="fill:#00a000" />
+      </g>
+      <g
+         transform="matrix(0,-1,1,0,0,0)"
+         id="g3730"
+         style="font-size:96.74167633px;font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#00a000;stroke:none;font-family:Orbitron;-inkscape-font-specification:Orbitron Heavy">
+        <path
+           d="m -600.00007,75.412 0,60.56029 c 0,7.64258 6.38496,14.02754 14.02754,14.02754 l 12.18945,0 0,-14.80147 -11.31877,0 0,-59.78636 -14.89822,0"
+           id="path3728"
+           style="fill:#00a000" />
+      </g>
+      <g
+         id="g3726"
+         style="font-size:96.11682892px;font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#00a000;stroke:none;font-family:Orbitron;-inkscape-font-specification:Orbitron Heavy">
+        <path
+           d="m 8.0680847e-5,525.79065 0,60.16914 c 0,7.59322 6.343718319153,13.93694 13.936940319153,13.93694 l 12.11072,0 0,-14.70588 -11.245669,0 0,-59.4002 -14.801991319153,0"
+           id="path3724"
+           style="fill:#00a000" />
+      </g>
+    </g>
+    <text
+       x="-0.52347577"
+       y="594.78796"
+       id="text4514"
+       xml:space="preserve"
+       style="font-size:22.75981712px;font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#00c800;fill-opacity:1;stroke:none;filter:url(#filter4856);font-family:Orbitron;-inkscape-font-specification:Orbitron Heavy"><tspan
+         x="-0.52347577"
+         y="594.78796"
+         id="tspan4516"
+         style="fill:#00c800;fill-opacity:1">digitalr00ts</tspan></text>
+    <text
+       x="36.459648"
+       y="600.00006"
+       id="text3428"
+       xml:space="preserve"
+       style="font-size:9.5145874px;font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#00c800;fill-opacity:1;stroke:none;filter:url(#filter4844);font-family:Orbitron;-inkscape-font-specification:Orbitron Heavy"><tspan
+         x="36.459648"
+         y="600.00006"
+         id="tspan3430"
+         style="font-size:7.1359396px;fill:#00c800;fill-opacity:1">.com</tspan></text>
+  </g>
+</svg>
