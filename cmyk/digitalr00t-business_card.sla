@@ -9,8 +9,8 @@
         <CheckProfile Name="PostScript" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
         <COLOR NAME="Black" CMYK="#000000ff" Spot="0" Register="0"/>
         <COLOR NAME="FromSVG#000024" CMYK="#ffff00a8" Spot="0" Register="0"/>
-        <COLOR NAME="FromSVG#00a000" CMYK="#ff4dff00" Spot="0" Register="0"/>
-        <COLOR NAME="FromSVG#00ff00" CMYK="#b800f700" Spot="0" Register="0"/>
+        <COLOR NAME="FromSVG#00a000" CMYK="#ff00ff1a" Spot="0" Register="0"/>
+        <COLOR NAME="FromSVG#00ff00" CMYK="#db00ff00" Spot="0" Register="0"/>
         <COLOR NAME="Registration" CMYK="#ffffffff" Spot="0" Register="1"/>
         <COLOR NAME="White" CMYK="#00000000" Spot="0" Register="0"/>
         <HYPHEN/>
