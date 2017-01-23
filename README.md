@@ -19,3 +19,9 @@ Font used is [Orbitron](https://www.theleagueofmoveabletype.com/orbitron) ([gith
 | Dark Green |  | 0 129 46 |
 | Light Green |  | 0 147 47 |
 | Background |  | 3 0 25 |
+
+# Publishing Notes
+
+## Export PDF
+
+When exporting from Scribus, make sure under the 'Color' tab, the output is set as 'Printer'
