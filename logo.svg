@@ -63,7 +63,7 @@
      id="layer1"
      transform="translate(120.69859,303.57651)">
     <path
-       style="fill:#050a41;fill-rule:evenodd"
+       style="fill:#00003c;fill-rule:evenodd"
        id="background"
        d="m -120.69859,-303.57651 500,0 0,500 -500,0 0,-500 z" />
     <g
@@ -71,59 +71,61 @@
        id="logo"
        clip-path="url(#Clip5)">
       <g
+         style="fill:#00d700"
          id="logo-outer"
          clip-path="url(#Clip6)">
         <path
-           style="fill:#007631;fill-rule:evenodd"
+           style="fill-rule:evenodd"
            id=" path4245"
            d="M 64.4184,0 12.115,0 C 5.51442,0 0,5.65703 0,12.4283 l 0,10.7998 12.7834,0 0,-10.0284 51.635,0 0,-13.1997 z"
            transform="translate(77.7258,31.1501)" />
         <path
-           style="fill:#007631;fill-rule:evenodd"
+           style="fill-rule:evenodd"
            id=" path4248"
            d="m 22.4978,65.662 0,-53.3131 C 22.4978,5.62088 17.0186,0 10.4602,0 L 0,0 l 0,13.0302 9.71308,0 0,52.6318 12.78472,0 z"
            transform="translate(184.776,31.125)" />
         <path
-           style="fill:#007631;fill-rule:evenodd"
+           style="fill-rule:evenodd"
            id=" path4251"
            d="m 0,23.228 52.3031,0 c 6.6006,0 12.115,-5.657 12.115,-12.4283 l 0,-10.7997 -12.7834,0 0,10.0283 -51.6347,0 0,13.1997 z"
            transform="translate(142.856,96.496)" />
         <path
-           style="fill:#007631;fill-rule:evenodd"
+           style="fill-rule:evenodd"
            id=" path4254"
            d="m 0,0 0,53.3092 c 0,6.7276 5.47877,12.348 12.0367,12.348 l 10.4595,0 0,-13.0292 -9.7124,0 L 12.7838,0 0,0 0,0 Z"
            transform="translate(77.7259,53.9752)" />
       </g>
       <g
+         style="fill:#00f500"
          id="logo-inner"
          clip-path="url(#Clip7)">
         <path
-           style="fill:#3baa2d;fill-rule:evenodd"
+           style="fill-rule:evenodd"
            id=" circle3522-2"
            d="m 12.928,6.63116 c 0,3.66224 -2.8941,6.63114 -6.46401,6.63114 C 2.89403,13.2623 1.00421e-7,10.2934 0,6.63116 1.00421e-7,2.96887 2.89403,0 6.46399,9.27161e-7 10.0339,1.03018e-6 12.928,2.96887 12.928,6.63116 l 0,0 z"
            transform="translate(97.2522,82.4163)" />
         <path
-           style="fill:#3baa2d;fill-rule:evenodd"
+           style="fill-rule:evenodd"
            id=" rect3524-4"
            d="m 0,0 38.7839,0 0,13.2623 L 0,13.2623 0,0 Z"
            transform="translate(123.121,82.4117)" />
         <path
-           style="fill:#3baa2d;fill-rule:evenodd"
+           style="fill-rule:evenodd"
            id=" circle3526-0"
            d="m 12.928,6.63116 c 0,3.66224 -2.8941,6.63114 -6.46401,6.63114 C 2.89403,13.2623 1.00421e-7,10.2934 0,6.63116 1.00421e-7,2.96887 2.89403,0 6.46399,9.27161e-7 10.0339,1.03018e-6 12.928,2.96887 12.928,6.63116 l 0,0 z"
            transform="translate(174.82,82.4163)" />
         <path
-           style="fill:#3baa2d;fill-rule:evenodd"
+           style="fill-rule:evenodd"
            id=" rect3338-4-06"
            d="m 0,0 38.7839,0 0,13.2623 L 0,13.2623 0,0 Z"
            transform="translate(97.2522,55.17)" />
         <path
-           style="fill:#3baa2d;fill-rule:evenodd"
+           style="fill-rule:evenodd"
            id=" circle3340-2-9"
            d="m 12.928,6.63116 c 0,3.66224 -2.8941,6.63114 -6.46401,6.63114 C 2.89403,13.2623 1.00421e-7,10.2934 0,6.63116 1.00421e-7,2.96887 2.89403,0 6.46399,9.27161e-7 10.0339,1.03018e-6 12.928,2.96887 12.928,6.63116 l 0,0 z"
            transform="translate(148.827,55.1761)" />
         <path
-           style="fill:#3baa2d;fill-rule:evenodd"
+           style="fill-rule:evenodd"
            id=" circle3342-8-9"
            d="m 12.928,6.63116 c 0,3.66224 -2.8941,6.63114 -6.46401,6.63114 C 2.89403,13.2623 1.00421e-7,10.2934 0,6.63116 1.00421e-7,2.96887 2.89403,0 6.46399,9.27161e-7 10.0339,1.03018e-6 12.928,2.96887 12.928,6.63116 l 0,0 z"
            transform="translate(174.807,55.4319)" />
