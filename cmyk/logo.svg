@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400pt" version="1.1" xmlns="http://www.w3.org/2000/svg" height="400pt" viewBox="0 0 400 400" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <title>digitalr00ts logo</title>
+ <defs>
+  <clipPath id="Clip0">
+   <path d="M0 0 L400 0 L400 400 L0 400 L0 0 Z" transform="translate(0, 0)"/>
+  </clipPath>
+  <clipPath id="Clip1">
+   <path d="M0 0 L400 0 L400 400 L0 400 L0 0 Z" transform="translate(0, 0)"/>
+  </clipPath>
+  <clipPath id="Clip2">
+   <path d="M0 0 L320 0 L320 218.851 L0 218.851 L0 0 Z" transform="translate(40, 90.5746)"/>
+  </clipPath>
+  <clipPath id="Clip3">
+   <path d="M0 0 L320 0 L320 218.851 L0 218.851 L0 0 Z" transform="translate(40, 90.5746)"/>
+  </clipPath>
+  <clipPath id="Clip4">
+   <path d="M0 0 L223.536 0 L223.536 100.061 L0 100.061 L0 0 Z" transform="translate(88.2327, 149.969)"/>
+  </clipPath>
+ </defs>
+ <g id="Background">
+  <g id="svg4637" clip-path="url(#Clip0)">
+   <g id="layer1" clip-path="url(#Clip1)">
+    <path style="fill:none;stroke:none;" id=" background" d="M0 0 L400 0 L400 400 L1.42109e-14 400 L1.42109e-14 0 L0 0 Z" transform="translate(0, 0)"/>
+    <g id="logo" clip-path="url(#Clip2)">
+     <g id="logo-outer" clip-path="url(#Clip3)">
+      <path style="fill:#009848; fill-rule:evenodd;stroke:none;" id="  path4245" d="M159.122 0 L29.9256 0 C13.6213 0 0 13.9736 0 30.6995 L0 57.3763 L31.5766 57.3763 L31.5766 32.6049 L159.122 32.6049 L159.122 0 L159.122 0 Z" transform="translate(40, 90.6366)"/>
+      <path style="fill:#009848; fill-rule:evenodd;stroke:none;" id="  path4248" d="M55.5724 162.193 L55.5724 30.5033 C55.5724 13.8843 42.0381 0 25.838 0 L0 0 L0 32.1862 L23.9925 32.1862 L23.9925 162.193 L55.5724 162.193 L55.5724 162.193 Z" transform="translate(304.428, 90.5746)"/>
+      <path style="fill:#009848; fill-rule:evenodd;stroke:none;" id="  path4251" d="M2.84217e-14 57.3761 L129.195 57.3761 C145.5 57.3761 159.121 43.4026 159.121 26.6766 L159.121 0 L127.544 0 L127.544 24.7712 L0 24.7712 L0 57.3761 L2.84217e-14 57.3761 Z" transform="translate(200.88, 252.049)"/>
+      <path style="fill:#009848; fill-rule:evenodd;stroke:none;" id="  path4254" d="M0 0 L0 131.68 C0 148.298 13.5333 162.182 29.7322 162.182 L55.5685 162.182 L55.5685 129.998 L31.5776 129.998 L31.5776 0 L0 0 L0 0 Z" transform="translate(40.0002, 147.018)"/>
+     </g>
+     <g id="logo-inner" clip-path="url(#Clip4)">
+      <path style="fill:#34aa46; fill-rule:evenodd;stroke:none;" id="  circle3522-2" d="M31.9338 16.3798 C31.9338 25.426 24.785 32.7596 15.9669 32.7596 C7.14862 32.7596 2.48053e-07 25.426 0 16.3798 C2.48053e-07 7.33348 7.14862 0 15.9669 2.29021e-06 C24.785 2.54468e-06 31.9338 7.33348 31.9338 16.3798 L31.9338 16.3798 Z" transform="translate(88.2327, 217.271)"/>
+      <path style="fill:#34aa46; fill-rule:evenodd;stroke:none;" id="  rect3524-4" d="M0 0 L95.8012 0 L95.8012 32.7596 L0 32.7596 L0 0 Z" transform="translate(152.132, 217.259)"/>
+      <path style="fill:#34aa46; fill-rule:evenodd;stroke:none;" id="  circle3526-0" d="M31.9338 16.3798 C31.9338 25.426 24.785 32.7596 15.9669 32.7596 C7.14862 32.7596 2.48053e-07 25.426 0 16.3798 C2.48053e-07 7.33348 7.14862 0 15.9669 2.29021e-06 C24.785 2.54468e-06 31.9338 7.33348 31.9338 16.3798 L31.9338 16.3798 Z" transform="translate(279.835, 217.271)"/>
+      <path style="fill:#34aa46; fill-rule:evenodd;stroke:none;" id="  rect3338-4-06" d="M0 0 L95.8012 0 L95.8012 32.7596 L0 32.7596 L0 0 Z" transform="translate(88.2327, 149.969)"/>
+      <path style="fill:#34aa46; fill-rule:evenodd;stroke:none;" id="  circle3340-2-9" d="M31.9338 16.3798 C31.9338 25.426 24.785 32.7596 15.9669 32.7596 C7.14862 32.7596 2.48053e-07 25.426 0 16.3798 C2.48053e-07 7.33348 7.14862 0 15.9669 2.29021e-06 C24.785 2.54468e-06 31.9338 7.33348 31.9338 16.3798 L31.9338 16.3798 Z" transform="translate(215.629, 149.984)"/>
+      <path style="fill:#34aa46; fill-rule:evenodd;stroke:none;" id="  circle3342-8-9" d="M31.9338 16.3798 C31.9338 25.426 24.785 32.7596 15.9669 32.7596 C7.14862 32.7596 2.48053e-07 25.426 0 16.3798 C2.48053e-07 7.33348 7.14862 0 15.9669 2.29021e-06 C24.785 2.54468e-06 31.9338 7.33348 31.9338 16.3798 L31.9338 16.3798 Z" transform="translate(279.803, 150.616)"/>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>
